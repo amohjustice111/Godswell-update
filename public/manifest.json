@@ -1,0 +1,12 @@
+{
+  "name": "Godswell Updates",
+  "short_name": "Godswell Updates",
+  "description": "Gather in faith with simple video meetings.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f5ed",
+  "theme_color": "#16382d",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
